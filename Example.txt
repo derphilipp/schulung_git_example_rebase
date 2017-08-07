@@ -1,7 +1,6 @@
 This
 is
 just
-THE SERVER PASSWORD IS: 'password', don't tell anyone!
 an
 example
 text
